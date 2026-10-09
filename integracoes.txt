@@ -1,0 +1,13 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyD3IPrt3xVPUE3S1dImKsAV5MiP-8OhcBE",
+  authDomain: "teste-gm-c3955.firebaseapp.com",
+  databaseURL: "https://teste-gm-c3955-default-rtdb.firebaseio.com",
+  projectId: "teste-gm-c3955",
+  storageBucket: "teste-gm-c3955.firebasestorage.app",
+  messagingSenderId: "701174174796",
+  appId: "1:701174174796:web:98d9605e919b78addb50e9"
+};
+
+
+b3a0993c8e5f41e0a238d872a31f03d7
+src/components/AuthModal.jsx e src/pages/Profile.jsx

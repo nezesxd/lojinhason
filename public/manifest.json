@@ -1,0 +1,12 @@
+{
+  "short_name": "Lojinha's On",
+  "name": "Lojinha's On - Marketplace",
+  "icons": [
+    { "src": "icone-guia.png", "type": "image/png", "sizes": "64x64" },
+    { "src": "icone-iphone.png", "type": "image/png", "sizes": "180x180" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff"
+}
