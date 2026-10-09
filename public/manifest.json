@@ -3,7 +3,7 @@
   "name": "Lojinha's On - Marketplace",
   "icons": [
     { "src": "icone-guia.png", "type": "image/png", "sizes": "64x64" },
-    { "src": "icone-iphone.png", "type": "image/png", "sizes": "180x180" }
+    { "src": "public/iconlogo.png", "type": "image/png", "sizes": "180x180" }
   ],
   "start_url": ".",
   "display": "standalone",
