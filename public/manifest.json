@@ -2,7 +2,7 @@
   "short_name": "Lojinha's On",
   "name": "Lojinha's On - Marketplace",
   "icons": [
-    { "src": "icone-guia.png", "type": "image/png", "sizes": "64x64" },
+    { "src": "public/iconlogo.png", "type": "image/png", "sizes": "64x64" },
     { "src": "public/iconlogo.png", "type": "image/png", "sizes": "180x180" }
   ],
   "start_url": ".",
